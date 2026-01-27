@@ -4,3 +4,6 @@ Nesta aula é feito alguns exercicíos utilizando strings, para aprofundar um po
 
 ***AULA 26: ***
 Nesta aula aprendi mais sobre os Numbers, funções para poder resolver problemas ou para modelar os valores.
+
+***AULA 27: ***
+Aula sobre Math e numbers, para reforçar os conhecimentos sobre numeros e aprender sobre o onjeto Math.
