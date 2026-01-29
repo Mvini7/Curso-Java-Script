@@ -8,5 +8,5 @@ Nesta aula aprendi mais sobre os Numbers, funções para poder resolver problema
 ***AULA 27: ***
 Aula sobre Math e numbers, para reforçar os conhecimentos sobre numeros e aprender sobre o onjeto Math.
 
-***AULA 27: ***
+***PRATICA 01: ***
 Fiz um teste prático para reforçcar oq aprendi ate agora, fazendo uma pequena calculadora de IMC, onde utilizei auxilio do ChatGpt e documentações para corrigir meus erros. Com essa prática reforcei meu aprendizado em Number e manipulação do HTML.
