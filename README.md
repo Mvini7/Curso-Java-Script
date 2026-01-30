@@ -10,3 +10,6 @@ Aula sobre Math e numbers, para reforçar os conhecimentos sobre numeros e apren
 
 ***PRATICA 01: ***
 Fiz um teste prático para reforçcar oq aprendi ate agora, fazendo uma pequena calculadora de IMC, onde utilizei auxilio do ChatGpt e documentações para corrigir meus erros. Com essa prática reforcei meu aprendizado em Number e manipulação do HTML.
+
+***PRATICA 02: ***
+Fiz um teste prático para reforçcar oq aprendi ate agora, resolvendo um pequeno problema de logica e comportamento, onde utilizei auxilio de documentações para corrigir esses erros. Com essa prática reforcei meu aprendizado em Number, String, logica e manipulação do HTML.
