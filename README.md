@@ -17,3 +17,8 @@ Fiz um teste prático para reforçcar oq aprendi ate agora, resolvendo um pequen
 
 **AULA 34:**
 Foi feito um teste prático, onde foi utilizado o aprendizado em function, arrays e objects. Nesse teste é coletado os dados do html e armazenado em um array que após enviar o formulario, os dados são apresentados no html.
+
+**Curso completo de Java Script - Logica de Programação**
+
+**Aula 40:**
+Aula de logica de programação sobre if, else if e else, junto tambem com alguns operadores logicos e de comparação.
