@@ -72,9 +72,8 @@ form button:hover {
   gap: 6rem;
 }
 
-#resultado {
+.resultado {
   font-weight: bold;
-  margin-top: 20px;
   background-color: aquamarine;
   padding: 5px;
 }

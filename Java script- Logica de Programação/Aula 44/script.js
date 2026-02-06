@@ -22,4 +22,6 @@ form.addEventListener('submit', function resultadoImc(evento) {
   } else {
     resultado.textContent = `Seu IMC é ${IMC.toFixed(2)} e você está com obesidade grau 3.`;
   }
+
+  resultado.classList.toggle('resultado');
 });
