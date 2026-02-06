@@ -7,6 +7,18 @@ form.addEventListener('submit', function resultadoImc(evento) {
   const altura = Number(document.getElementById('altura').value);
   const resultado = document.getElementById('resultado');
 
+  if (isNaN(peso) || altura <= 0) {
+    resultado.textContent = `Peso invalido, tente novamente.`;
+    resultado.classList.add('resultadoInvalido');
+    return;
+  }
+
+  if (isNaN(altura) || peso <= 0) {
+    resultado.textContent = `Altura invalida, tente novamente.`;
+    resultado.classList.add('resultadoInvalido');
+    return;
+  }
+
   const IMC = peso / (altura ** 2);
 
   if (IMC < 18.5) {
