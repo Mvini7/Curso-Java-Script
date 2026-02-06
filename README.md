@@ -22,3 +22,6 @@ Foi feito um teste prático, onde foi utilizado o aprendizado em function, array
 
 **Aula 40:**
 Aula de logica de programação sobre if, else if e else, junto tambem com alguns operadores logicos e de comparação.
+
+**Aula 44:**
+Aula com um teste pratico, com um mini projeto para calcular o imc e dizer como está sua saúde (abaixo do peso, normal, sobrepeso e etc). Nesse mini projeto foi utilizado tudo que foi aprendido no modulo de logica, operadores logicos, operadores de comparação, if, else if, else, function.
