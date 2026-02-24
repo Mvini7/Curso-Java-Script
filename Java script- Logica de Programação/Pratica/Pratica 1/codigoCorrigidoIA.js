@@ -49,6 +49,6 @@ function fazerPedido(produtoEscolhido, quantidade) {
   console.log(pedido);
 }
 
-let escolherProduto = 'Bola de futebol';
+let escolherProduto = 'Camisa';
 let quantidadeEscolhida = 5;
 fazerPedido(escolherProduto, quantidadeEscolhida);

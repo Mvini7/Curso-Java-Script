@@ -93,7 +93,7 @@ function fazerPedido(produtoEscolhido, quantidade) {
   const pedido = {
     produto: escolhaProduto,
     quantidade: escolhaQuantidade,
-    preco: precoComDesconto 
+    preco: precoComDesconto
   };
   console.log(pedido);
 }
