@@ -39,3 +39,9 @@ Durante o desenvolvimento, alguns ajustes foram necessários. O principal foi co
 Foram aplicados diversos conceitos importantes, como funções, estruturas condicionais (if/else), método .find(), arrays, objetos e operações matemáticas básicas para cálculo de desconto.
 
 Esse projeto é um ótimo exemplo de como combinar lógica de programação, organização de dados e estruturas de decisão em um único código funcional e bem estruturado.
+
+**JS Logica de Programação/Pratica 2:**
+Este projeto tem como objetivo praticar atribuição via desestruturação em objetos e arrays aninhados.
+O desafio simula uma resposta de API real, retornando dados de um cliente e seus pedidos, como seria em um backend com Node.js puro.
+
+A missão é extrair, de forma limpa e direta, apenas as informações necessárias, sem acessar manualmente cada nível do objeto.
